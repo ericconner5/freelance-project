@@ -46,7 +46,7 @@ Phone:
 ![alt text](img/phone-sketch.jpg "Phone Sketches")
 
 Desktop and tablet:
-![alt text](img/desktop/tablet-sketch.jpg "Desktop/Tablet Sketches")
+![alt text](img/desktop/tablet-sketch.jpg "Desktop-Tablet Sketches")
 
 ### Images
 
