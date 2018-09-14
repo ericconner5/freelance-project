@@ -40,13 +40,10 @@ Some notes from the client:
 
 "Our site should also show what amenities we have. We have an on-site coffee counter, both communal working areas and private offices, high-speed internet, printing and faxing services, and we usually have a fun, optional activity on Thursday afternoons. Like yoga, maybe a fun complementary food, or like...I don't know, maybe even crafts sometimes (come make your own mini desktop terrarium)?"
 
-Some images of my paper site sketches:
+Some images of my basic site sketches on paper:
 
-Phone:
-![alt text](img/phone-sketch.jpg "Phone Sketches")
-
-Desktop and tablet:
-![alt text](img/desktop/tablet-sketch.jpg "Desktop-Tablet Sketches")
+Phone, desktop and tablet:
+![alt text](img/paper-sketch.jpg "Phone Sketches")
 
 ### Images
 
