@@ -26,9 +26,9 @@ As an entrepreneur, I want a space I can develop my product in.
 As an entrepreneur, I want to be able to network with others.
 As an entrepreneur, I want an office space that shows I am serious and driven, yet... fun or creative.
 
-A placeholder business name seemed like the next step. The client provided a few pictures of their buildout for reference. The client also needs an identity that sets them apart from other coworking spaces. Focusing not simply on offering a space for technical work was important. The placeholder name "Welcome" decided, the next step was to consider brand identity, general aesthetics and what similar businesses use to convey the same message (and what messages they conveyed to avoid). Specifically, I considered workspaces that seemed successful and similar: HatchLab and Collective Agency. The client sited WeWork and TechSpace as the "big guys" in the field they would like to be set apart from by being more funky, local and fun and less corporate.
+A placeholder business name seemed like the next step. The client provided a few pictures of their buildout for reference. The client also needs an identity that sets them apart from other coworking spaces. Focusing not simply on offering a space for technical work was important. The placeholder name "Welcome" decided, the next step was to consider brand identity, general aesthetics and what similar businesses use to convey the same message (and what messages they conveyed to avoid). Specifically, I considered workspaces that seemed successful and similar: HatchLab for aesthetics and Collective Agency for text. The client sited WeWork and TechSpace as the "big guys" in the field they would like to be set apart from by being more funky, local and fun and less corporate.
 
-Before advancing, add a section to your README detailing what work and decisions you completed in this step, how you will integrate the client's requests into the design, any outside sources gained inspiration from, what you took into consideration, and how this information will influence your design.
+Some notes from the client:
 
 "We just finished remodeling our space. We're really proud of it. We want our online presence to mirror our in-person presence, to attract people that would really enjoy working in our environment." (They later email you the following photos detailing their space's aesthetic: coffee counter area, communal workspace, one of our meeting areas, front entrance, front entrance looking out).
 
@@ -39,6 +39,14 @@ Before advancing, add a section to your README detailing what work and decisions
 "We want to avoid catering solely to tech. You walk into some of these other coworking spaces, and you only ever see people working on code. That's great, but we'd also love to see artists, daytraders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space."
 
 "Our site should also show what amenities we have. We have an on-site coffee counter, both communal working areas and private offices, high-speed internet, printing and faxing services, and we usually have a fun, optional activity on Thursday afternoons. Like yoga, maybe a fun complementary food, or like...I don't know, maybe even crafts sometimes (come make your own mini desktop terrarium)?"
+
+Some images of my paper site sketches:
+
+Phone:
+![alt text](img/phone-sketch.jpg "Phone Sketches")
+
+Desktop and tablet:
+![alt text](img/desktop/tablet-sketch.jpg "Desktop/Tablet Sketches")
 
 ### Images
 
