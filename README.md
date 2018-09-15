@@ -57,7 +57,7 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 ![mobile user interface](img/phone-home-page.png "Phone Home")
 
-![mobile user interface]<img style="float: right;" src='img/phone-menu.png "Phone Menu"'>
+![mobile user interface](<img style="float: right;" src='img/phone-menu.png "Phone Menu"'>)
 
 ### User Stories
 
