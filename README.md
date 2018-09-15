@@ -51,13 +51,13 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 #### Desktop Version
 
-![desktop user interface](img/desktop-home.png)
+![desktop user interface](img/desktop-home.png "Desktop Home")
 
 #### Mobile Version
 
-![mobile user interface](img/phone-home-page.png)
+![mobile user interface](img/phone-home-page.png "Phone Home")
 
-![mobile user interface](img/phone-menu.png)
+![mobile user interface](img/phone-menu.png "Phone Menu")
 
 ### User Stories
 
