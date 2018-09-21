@@ -8,14 +8,33 @@ body {
 
 .grid-row-container {
   display: grid;
-  grid-template-rows: 80px 1fr 80px;
-  // grid-row: 20% auto 10%;
+  grid-template-rows: 100px 1fr 80px;
+  grid-gap: 0px;
 }
 
 .header-container {
-  grid-row: 1 / 1;
+  grid-row: 1 / span 1;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
 }
 
+.top-logo-container {
+  grid-column: 1 / span 1;
+}
+
+.menu-icon-container {
+  grid-column: 6 / span 1;
+  object-fit: cover;
+  // width: 100%;
+  // max-height: 100%;
+  height: 100px;
+//where I left off trying to get menu icon to go right....
+  object-position: right;
+}
+#menu-icon {
+  height: 100px;
+
+}
 .home-img-container {
   grid-row: 2 / 3;
   max-height: 500px;
