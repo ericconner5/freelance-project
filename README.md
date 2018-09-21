@@ -62,7 +62,7 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 ### User Stories
 
-* We'll  
+* Mark: freelance professional, works from home and needs an office to change scenery. Wants a comfortable office with a few other professionals to network with and mingle.
 * Learn
 * About
 * These
@@ -71,33 +71,30 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 ### Technologies and Resources
 
-* List
-* What
-* Outside
-* Technologies
-* You've
-* Used
-* Here
+* OS X
+* Preview
+* Sketch
+* Atom
+* Homebrew
+* Webpack
 
 ### Responsiveness
 
-Describe how the site is responsive, and what different 'versions' this project includes (does it have a mobile version? tablet version? )
+The site is currently only responding to a page redirect to and from the home page and contact page.
 
 ### Setup Instructions
 
-Describe how someone can clone and launch this project.
+Clone the project and install Webpack dependencies listed in the webpack.config.js file.
 
 ### Roadmap
 
-Is there work you plan on continuing doing on this project? Features you'd like to add?
+I'd like to finish the basic site layout and the home pages styling.
 
-* Consider
-* Listing
-* Them
-* Here
+* I'd love to complete the media query responsiveness so it displays on desktop to phone with some optimization for viewport.
+
 
 ### License
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2018 **Eric Conner**
 
 This software is licensed under the MIT license.
