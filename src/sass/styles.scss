@@ -1,3 +1,27 @@
 body {
-  background-color: pink;
+  border: 0;
+  margin: 0;
+  background-image:
+    linear-gradient(to right, #82d8c5, #8fdfce, #9ce7d6, #a8eedf, #b5f6e8);
+  background-repeat: no-repeat;
+}
+
+.grid-row-container {
+  display: grid;
+  grid-template-rows: 80px 1fr 80px;
+  // grid-row: 20% auto 10%;
+}
+
+.header-container {
+  grid-row: 1 / 1;
+}
+
+.home-img-container {
+  grid-row: 2 / 3;
+  max-height: 500px;
+  // overflow-x: hidden;
+  // overflow-y: hidden;
+  overflow: inherit;
+  justify-content: center;
+  align-content: center;
 }
