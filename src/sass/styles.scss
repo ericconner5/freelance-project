@@ -36,11 +36,31 @@ body {
 
 }
 .home-img-container {
-  grid-row: 2 / 3;
-  max-height: 500px;
+  grid-row: 2 / span 1;
+  max-height: 700px;
   // overflow-x: hidden;
   // overflow-y: hidden;
-  overflow: inherit;
+  overflow: auto;
+
   justify-content: center;
   align-content: center;
+}
+
+#lobby {
+  vertical-align: middle;
+  // min-width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  object-fit: scale-down;
+
+}
+
+.footer {
+  display: grid;
+  grid-row: 3 / span 1;
+  position: inherit;
+  background-image:
+    linear-gradient(to right, #82d8c5, #8fdfce, #9ce7d6, #a8eedf, #b5f6e8);
+  background-repeat: no-repeat;
 }
